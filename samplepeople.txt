@@ -1,0 +1,2 @@
+name,om,al,K
+Komal,1,1,1
